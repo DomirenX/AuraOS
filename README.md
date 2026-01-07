@@ -5,8 +5,6 @@ The project focuses on low-level system development, clean bootstrapping, and gr
 
 > ⚠️ AuraOS is work in progress and currently intended for educational and experimental purposes only.
 
----
-
 ## Features (Current State)
 
 - x86_64 architecture support
@@ -15,8 +13,6 @@ The project focuses on low-level system development, clean bootstrapping, and gr
 - Custom linker script
 - Minimal VGA text output (early debug)
 - Runs in QEMU
-
----
 
 ## Toolchain & Requirements
 
@@ -30,23 +26,17 @@ To build and run AuraOS, you need:
 
 > ⚠️ A system compiler will not work. A proper cross-compiler is required.
 
----
-
 ## Building the Project
 
 ```bash
 make all
 ```
 
----
-
 ## Running in QEMU
 
 ```bash
 make run
 ```
-
----
 
 ## Goals & Roadmap
 
