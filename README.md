@@ -51,3 +51,5 @@ Planed future milestones:
 - Custom UI / shell
 
 ## Attention! The project is under development and at the moment may not work, have problems, bugs, imperfections and so far it is not very similar to the idea, but the development is in full swing as far as possible. Thank you for your understanding!
+
+Licensed under the AuraOS Non-Commercial License (ANCL)
