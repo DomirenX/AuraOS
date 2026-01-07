@@ -4,18 +4,23 @@ SECTIONS {
     . = 0xffffffff80000000;
 
     .text : {
-        *(.text .text.*)
+        *(.text*)
     }
 
     .rodata : {
-        *(.rodata .rodata.*)
+        *(.rodata*)
     }
 
     .data : {
-        *(.data .data.*)
+        *(.data*)
     }
 
     .bss : {
-        *(.bss .bss.*)
+        *(.bss*)
+        *(COMMON)
+    }
+
+    .limine_requests : {
+        *(.limine_requests*)
     }
 }
