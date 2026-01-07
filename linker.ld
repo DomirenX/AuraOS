@@ -1,4 +1,4 @@
-ENTRY(kernel_main)
+ENTRY(limine_main)
 
 SECTIONS {
     . = 0xffffffff80000000;
