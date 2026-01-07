@@ -1,3 +1,7 @@
+//
+// Copyright © 2026 DomirenX
+//
+
 #include <stdint.h>
 #include <stddef.h>
 #include <limine.h>
