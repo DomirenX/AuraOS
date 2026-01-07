@@ -1,5 +1,6 @@
 #
 # Copyright © 2026 DomirenX
+# Licensed under the AuraOS Non-Commercial License (ANCL)
 #
 
 # =================================================
